@@ -17,6 +17,12 @@ Now, I have just made an admin pannel and done CRUD operations with MySQL databa
 <img width="1920" alt="Screenshot 2023-12-04 at 10 25 30 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/2a82f1f5-1086-4285-81eb-534a85da1fae">
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+2. spring-boot-call-app -> This is made by springBoot to make a call from a number.
+
+
 
 
 
