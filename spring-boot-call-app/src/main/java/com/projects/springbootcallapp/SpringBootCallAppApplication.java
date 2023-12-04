@@ -13,8 +13,8 @@ import com.twilio.type.PhoneNumber;
 
 @SpringBootApplication
 public class SpringBootCallAppApplication implements ApplicationRunner  {
-	private final static String ACCOUNT_SID = "ACa942b3a12361eec2dc2d046897eca6f1";
-	private final static String AUTH_ID = "82062fdca5228cc5d2c6202869e4b610";
+	private final static String ACCOUNT_SID = ""; // Make an acoount in Twillio and get this SID
+	private final static String AUTH_ID = "";   // Same 
 	private final static String FROM_NUMBER="+17753836270";
 	private final static String TO_NUMBER ="+918918792255";
 
