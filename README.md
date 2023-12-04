@@ -5,6 +5,13 @@ Backend Projects by using Spring , SpringBoot , Thymeleaf , Hibernate etc.
 1.UniversityERP:-> This project is just started by me to make a webApp which can automate a lot of tasks of any University. Specially , I wanna make an University WebApp 2.0.
 Now, I have just made an admin pannel and done CRUD operations with MySQL database. Managing Student data like Add new Student , Edit student data etc. Delete operation is not made yet for a reason. In future when I'll inject Spring Security then I will add this delete opration.
 
+<img width="1920" alt="Screenshot 2023-12-04 at 10 33 20 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/48c92cf5-c4fb-4aa2-8d57-dfae05632e0b">
+
+<img width="1920" alt="Screenshot 2023-12-04 at 10 33 37 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/79d391de-d811-4e51-affc-7ba19248f287">
+
+
+
+
 <img width="1906" alt="Screenshot 2023-12-04 at 10 23 49 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/227bc04b-bfc8-4c07-9aa0-eec546bc7ed3">
 
 
