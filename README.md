@@ -42,8 +42,64 @@ Now, I have just made an admin panel and done CRUD operations with MySQL databas
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2. Task Manager Web App with different roles and authentication and verification by emailId :-> Till now I've just completed user register and authentication by email id. Login and log out facilities. Forget password by verifying emailId.
+I have used Spring Boot , Spring Security , Hibernate-JPA , MySql Database and Maven Build for this project. All needed staffs are made like collecting token , authorize , validate etc. For frontend BootStrap is used. All basic needed Crud operation is made.
 
-2. spring-boot-call-app -> This is made by springBoot to make a call from a number.
+
+
+
+<img width="1920" alt="Screenshot 2024-01-07 at 8 42 20 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/91d06dee-8680-422d-b82a-213fc9ecec3f">
+
+User REG Form:
+
+
+<img width="1901" alt="Screenshot 2024-01-07 at 8 42 42 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/e19c1937-e760-4ca8-9947-186ccfb85243">
+
+
+Invalid Login:
+
+
+<img width="1723" alt="Screenshot 2024-01-07 at 8 42 56 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/1925279d-d463-4e84-9ed2-0c3573f865a6">
+
+
+All Crud Operations:
+
+
+<img width="1715" alt="Screenshot 2024-01-07 at 8 43 48 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/d3342796-c340-4452-b099-c83e4e8b1f9a">
+
+
+
+
+<img width="1289" alt="Screenshot 2024-01-07 at 8 44 00 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/14e1a520-2d2d-4142-b744-c73d947035a6">
+
+
+
+Verifying by EmailID:
+
+<img width="622" alt="Screenshot 2024-01-07 at 8 44 42 PM" src="https://github.com/sayanthecodingchamp/Projects/assets/84074421/d27c6d66-e9e1-44cf-a5e9-43865743d801">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.. spring-boot-call-app -> This is made by springBoot to make a call from a number.
 
 
 
