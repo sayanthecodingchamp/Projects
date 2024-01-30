@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SuntelGlobalInternShipsApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(SuntelGlobalInternShipsApplication.class, args);
+
     }
 
 }

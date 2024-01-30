@@ -42,9 +42,17 @@ public class UserController {
         user.setPassword(passwordEncoder.encode(user.getPassword())); // Here , WE are not storing the actual password , rather we are storing a crypted one !
         return userRepository.save(user);
     }
+    @PostMapping("/demoPost")
+    public User demoPost(@RequestBody User user){
+        return user;
+    }
+    @GetMapping("/demoGet")
+    public String demo(){
+        return "Success DemoGET!!";
+    }
 
     // Update User
-    @PutMapping("admin/users/{id}")
+    @PutMapping("/admin/users/{id}")
     public User updateUser(@PathVariable UUID id,@RequestBody User updatingUser){
             User user=userRepository.findById(id)
                     .orElseThrow(()->new ResourceIsMissing("User is not There !"));
@@ -70,5 +78,12 @@ public class UserController {
         return "This project is going ahead!";
     }
 
-
+    @GetMapping("/admin/get")
+    public String adminGet(){
+        return "This is the adminGet()";
+    }
+    @GetMapping("/public/get")
+    public String publicGet(){
+        return "This is publicGet()";
+    }
 }
